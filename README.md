@@ -4,6 +4,8 @@
 2. Used Rapid Api for Google Search Engine 
 3. Used TailWind CSS for Styling
 
+<h2><a href="https://goggle-search-react-app.netlify.app">Link to Website</a></h2>
+
 <h2>Web App ScreenShoot :-</h2>
 <h2 align="center"> Home Page </h2>  
                                                                                                               
@@ -24,4 +26,4 @@
 
 ![Screenshot 2022-03-22 235849](https://user-images.githubusercontent.com/88818731/159551586-10a41618-952f-4d59-a0a0-854138f6662c.png)
 
-<a href="https://goggle-search-react-app.netlify.app">Link to Website</a>
+
